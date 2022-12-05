@@ -8,7 +8,7 @@ app=dash.Dash(__name__)
 
 #Paso 3: Agregar elementos de HTML 
 app.layout=html.Div([
-    html.H1('Poverty And Equity Database',
+    html.H1('Poverty And Equity Database New',
             style={'color': 'blue',
                    'fontSize': '40px'})])
 
