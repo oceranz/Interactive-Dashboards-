@@ -15,3 +15,5 @@ app.layout=html.Div([
 #Paso 4: Iniciar el servidor de la aplicacion 
 if __name__ == '__main__':
     app.run_server(debug=True)
+    
+#https://www.atlassian.com/es/git/tutorials/setting-up-a-repository
